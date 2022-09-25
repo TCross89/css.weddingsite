@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(127, 26, 199);
+}
+
+a {
+    color: white;
+    margin:auto;
+}
+
+img {
+    height: 450px;
+    margin: 1%;
+ }
+
+ h1 {
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    color: whitesmoke;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    font-size: 17px;
+    color: gainsboro;
+}
+
+ul {
+    text-align: left;
+    list-style-position: inside; 
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
+
+#grooms {
+    color: navy;
+    font-size: x-large;
+
+}
+
+#brides {
+    color:cyan;
+    font-size: x-large;
+}
